@@ -34,3 +34,6 @@ TODO: add some description about JSON schema and request object
 npm install
 npm run start
 ```
+
+
+Powered by [Health Samurai](http://www.health-samurai.io) | [Aidbox](http://www.health-samurai.io/aidbox) | [Fhirbase](http://www.health-samurai.io/fhirbase)
